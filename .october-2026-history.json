@@ -1,0 +1,246 @@
+{
+  "purpose": "User-requested backdated Git history exercise; these entries do not represent historical application development.",
+  "created_at": "2026-10-29T00:06:56+05:30",
+  "temporary_file": "Removed by a follow-up PR to restore the original repository tree.",
+  "schedule": [
+    {
+      "date": "2026-10-01",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-02",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-03",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-04",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-05",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-06",
+      "existing": 0,
+      "target": 3,
+      "new_branch_commits": 3,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-07",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-08",
+      "existing": 0,
+      "target": 2,
+      "new_branch_commits": 2,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-09",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-10",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-11",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-12",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-13",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-14",
+      "existing": 0,
+      "target": 3,
+      "new_branch_commits": 3,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-15",
+      "existing": 0,
+      "target": 2,
+      "new_branch_commits": 2,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-16",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-17",
+      "existing": 0,
+      "target": 2,
+      "new_branch_commits": 2,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-18",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-19",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-20",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-21",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-22",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-23",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-24",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-25",
+      "existing": 0,
+      "target": 3,
+      "new_branch_commits": 3,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-26",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-27",
+      "existing": 0,
+      "target": 2,
+      "new_branch_commits": 2,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-28",
+      "existing": 0,
+      "target": 3,
+      "new_branch_commits": 3,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-29",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 2,
+      "reserved_merge_commits": 2,
+      "reserved_cleanup_commit": 1
+    }
+  ],
+  "checkpoints": [
+    {
+      "author_date": "2026-10-01T08:13:23+05:30",
+      "sequence": 1,
+      "backdated": true
+    }
+  ]
+}
