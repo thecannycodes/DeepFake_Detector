@@ -1,0 +1,786 @@
+{
+  "purpose": "User-requested backdated Git history exercise; these entries do not represent historical application development.",
+  "created_at": "2026-10-29T00:06:56+05:30",
+  "temporary_file": "Removed by a follow-up PR to restore the original repository tree.",
+  "schedule": [
+    {
+      "date": "2026-10-01",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-02",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-03",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-04",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-05",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-06",
+      "existing": 0,
+      "target": 3,
+      "new_branch_commits": 3,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-07",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-08",
+      "existing": 0,
+      "target": 2,
+      "new_branch_commits": 2,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-09",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-10",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-11",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-12",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-13",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-14",
+      "existing": 0,
+      "target": 3,
+      "new_branch_commits": 3,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-15",
+      "existing": 0,
+      "target": 2,
+      "new_branch_commits": 2,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-16",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-17",
+      "existing": 0,
+      "target": 2,
+      "new_branch_commits": 2,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-18",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-19",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-20",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-21",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-22",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-23",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 5,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-24",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-25",
+      "existing": 0,
+      "target": 3,
+      "new_branch_commits": 3,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-26",
+      "existing": 0,
+      "target": 4,
+      "new_branch_commits": 4,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-27",
+      "existing": 0,
+      "target": 2,
+      "new_branch_commits": 2,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-28",
+      "existing": 0,
+      "target": 3,
+      "new_branch_commits": 3,
+      "reserved_merge_commits": 0,
+      "reserved_cleanup_commit": 0
+    },
+    {
+      "date": "2026-10-29",
+      "existing": 0,
+      "target": 5,
+      "new_branch_commits": 2,
+      "reserved_merge_commits": 2,
+      "reserved_cleanup_commit": 1
+    }
+  ],
+  "checkpoints": [
+    {
+      "author_date": "2026-10-01T08:13:23+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-01T10:25:35+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-01T13:18:53+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-01T16:36:11+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-02T10:50:40+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-02T14:59:46+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-02T18:46:44+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-02T19:37:52+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-03T12:06:08+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-03T14:05:21+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-03T21:21:12+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-03T21:34:47+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-04T09:21:09+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-04T11:51:49+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-04T15:00:32+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-04T19:13:53+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-05T11:54:25+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-05T13:04:06+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-05T16:55:19+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-05T17:37:57+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-05T17:41:15+05:30",
+      "sequence": 5,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-06T17:06:48+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-06T19:42:48+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-06T20:06:49+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-07T10:33:02+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-07T11:30:48+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-07T18:11:57+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-07T21:16:08+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-08T11:04:29+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-08T18:52:14+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-09T10:06:14+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-09T11:17:23+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-09T13:20:09+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-09T14:36:19+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-10T10:20:29+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-10T11:30:04+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-10T13:39:29+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-10T15:49:37+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-10T18:02:17+05:30",
+      "sequence": 5,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-11T10:41:12+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-11T11:31:28+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-11T12:22:33+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-11T20:05:00+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-12T10:29:53+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-12T12:10:02+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-12T13:51:43+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-12T14:36:36+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-12T19:38:36+05:30",
+      "sequence": 5,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-13T09:52:19+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-13T11:30:54+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-13T18:11:48+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-13T19:02:51+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-14T08:32:04+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-14T16:44:29+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-14T17:41:22+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-15T08:36:43+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-15T12:47:48+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-16T09:10:07+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-16T12:05:45+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-16T15:22:39+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-16T17:21:36+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-16T19:43:38+05:30",
+      "sequence": 5,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-17T08:18:08+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-17T11:14:12+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-18T12:22:16+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-18T15:40:00+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-18T17:01:41+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-18T21:06:10+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-18T21:51:17+05:30",
+      "sequence": 5,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-19T11:31:50+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-19T13:28:29+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-19T17:28:44+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-19T19:21:06+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-20T08:53:04+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-20T10:51:49+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-20T14:55:51+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-20T15:30:15+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-21T09:23:27+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-21T14:39:18+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-21T14:40:50+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-21T17:01:58+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-21T19:44:02+05:30",
+      "sequence": 5,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-22T08:32:41+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-22T11:40:51+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-22T12:29:13+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-22T15:00:46+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-23T08:48:50+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-23T12:19:35+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-23T14:48:32+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-23T15:15:28+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-23T17:33:37+05:30",
+      "sequence": 5,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-24T09:48:58+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-24T12:13:43+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-24T14:54:11+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-24T16:41:09+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-25T11:33:30+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-25T12:46:19+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-25T14:31:44+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-26T14:31:49+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-26T17:46:38+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-26T21:23:41+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-26T21:23:58+05:30",
+      "sequence": 4,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-27T14:40:02+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-27T21:12:25+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-28T08:26:50+05:30",
+      "sequence": 1,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-28T09:48:38+05:30",
+      "sequence": 2,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-28T12:19:47+05:30",
+      "sequence": 3,
+      "backdated": true
+    },
+    {
+      "author_date": "2026-10-29T00:11:32+05:30",
+      "sequence": 1,
+      "backdated": false
+    },
+    {
+      "author_date": "2026-10-29T00:12:32+05:30",
+      "sequence": 2,
+      "backdated": false
+    }
+  ]
+}
